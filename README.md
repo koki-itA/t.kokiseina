@@ -1,1 +1,1 @@
-t.kokiseinagithub.io
+t.kokiseina.github.io
